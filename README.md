@@ -6,6 +6,12 @@ this is a simple project combining ASP.net 5 with NextJs
  dotnet SDK 5
  latest node js
  
+
+ ## Docker
+you can try it on docker 
+
+`docker run --name NextAsp -dp 5000:80 dyako/next-asp`
+
 ## Tutorial
 
 Folder Structure
